@@ -699,6 +699,10 @@ body {
   text-align: center;
 }
 
+.font-figTree {
+  font-family: 'Figtree', sans-serif;
+}
+
 .text-\[0\.5rem\] {
   font-size: 0.5rem;
 }
